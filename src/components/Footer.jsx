@@ -19,7 +19,7 @@ export default function Footer({bg_color}) {
     ]
     return (
         <footer className="w-full h-auto">
-            <div className={`bg-slate-800 text-white flex gap-10 w-full h-32 justify-center items-center`}>
+            <div className={` mt-auto bg-slate-800 text-white flex gap-10 w-full h-32 justify-center items-center`}>
                 {social_media.map((element, index) => {
             
                     return (

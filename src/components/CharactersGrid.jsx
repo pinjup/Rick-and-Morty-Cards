@@ -1,9 +1,9 @@
-import { useContext, useReducer } from 'react'
+import { useContext } from 'react'
 import { ProContext } from './Context'
 import { NavLink } from "react-router-dom"
 
 
-export default function CharactersGrid({characters, text_color, class_button, bg_color, slug, loading}) {
+export default function CharactersGrid({characters, text_color, bg_color, slug, loading}) {
     // const {
     //     characters, 
     // } = useContext(ProContext)
