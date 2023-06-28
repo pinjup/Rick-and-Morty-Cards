@@ -18,7 +18,7 @@ export default function Home() {
                 <div className="w-full flex flex-col items-center gap-10 p-3">
                     
                     <div className="mt-10">
-                        <h1 className="font-semibold text-base text-center">See Rick and Morty api cards<br/>(press the image)</h1>
+                        <h1 className="font-semibold text-base text-center">Se Rick and Morty api cards<br/>(press the image)</h1>
                     </div>
 
                     <div>
